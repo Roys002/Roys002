@@ -94,10 +94,33 @@ Currently expanding my skills in <b>Laravel</b> and <b>Flutter</b> to deliver fu
 
 ---
 
+### 📈 Additional Metrics
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidgeri&theme=radical" alt="Profile Summary"/>
+</p>
+
+<!--<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidgeri&theme=radical" alt="Repos per Language" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidgeri&theme=radical" alt="Most Commit Language" height="150"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidgeri&theme=radical" alt="Stats" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidgeri&theme=radical&utcOffset=8" alt="Productive Time" height="150"/>
+</p> -->
+
+<!--### 📊 Contribution Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidgeri&theme=redical&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
+</p>-->
+
+---
+
 ### 📬 Contact & Connect
 - 📧 **Email:** [royasmada21@gmail.com](mailto:royasmada21@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/dianata-royasmada-740812254](https://linkedin.com/in/dianata-royasmada-740812254)  
-- 🧠 **GitHub:** [github.com/Roys002](https://github.com/Roys002)  
+<!-- - 💼 **LinkedIn:** [linkedin.com/in/dianata-royasmada-740812254](https://linkedin.com/in/dianata-royasmada-740812254)  
+- 🧠 **GitHub:** [github.com/Roys002](https://github.com/Roys002)   -->
 
 ---
 

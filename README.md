@@ -1,10 +1,12 @@
+
 <h1 align="center">👋 Hi, I'm Dianata Royasmada</h1>
 <h3 align="center">🚀 Fullstack Software Engineer | Golang • Vue 3 • Nuxt 3 • Laravel • Flutter</h3>
 
+---
+
+<p align="center"><b>Summary</b></p>
 <p align="center">
-A passionate <b>Fullstack Software Engineer</b> with 3+ years of experience developing scalable and high-performance applications.  
-Specialized in <b>Golang</b>, <b>Vue 3</b>, and <b>Nuxt 3</b>, I build efficient systems designed for reliability and growth.  
-Currently expanding my skills in <b>Laravel</b> and <b>Flutter</b> to deliver full end-to-end software solutions.  
+Results-driven Fullstack Software Engineer with 3+ years of experience in building scalable, high-performance applications for the hospitality and property management industry. Adept at designing robust backend architectures and modern frontend interfaces. Passionate about clean code, automation, and continuous learning. Open to collaboration and new challenges.
 </p>
 
 ---
@@ -18,6 +20,7 @@ Currently expanding my skills in <b>Laravel</b> and <b>Flutter</b> to deliver fu
 - 🎯 Passionate about clean architecture, automation, and building maintainable code  
 
 ---
+
 
 ### 🧩 Core Technologies
 
@@ -34,7 +37,6 @@ Currently expanding my skills in <b>Laravel</b> and <b>Flutter</b> to deliver fu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white&style=flat-square)
@@ -48,6 +50,32 @@ Currently expanding my skills in <b>Laravel</b> and <b>Flutter</b> to deliver fu
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+
+---
+
+### 🌟 Key Projects
+
+**Channel Manager & PMS Integration**  
+<sub>Golang, REST API, MySQL</sub>  
+Developed a robust integration system for property management, handling real-time data for 1,000+ properties. Improved reliability and scalability of channel management.
+
+**CRM Guest Portal**  
+<sub>Vue 3, Nuxt 3, Golang, TailwindCSS</sub>  
+Built a guest-facing portal for check-in/out, food ordering, and feedback, enhancing guest experience and operational efficiency.
+
+**Email Scheduler Service**  
+<sub>Golang, PostgreSQL, Prometheus, Grafana</sub>  
+Created a production-grade email scheduler with template builder, retry mechanism, and monitoring, reducing email delivery failures by 30%.
+
+---
+
+### 🤝 Soft Skills
+- Teamwork & Collaboration
+- Problem Solving
+- Communication
+- Adaptability
+- Leadership
+
 
 ---
 
@@ -117,10 +145,12 @@ Currently expanding my skills in <b>Laravel</b> and <b>Flutter</b> to deliver fu
 
 ---
 
+
 ### 📬 Contact & Connect
 - 📧 **Email:** [royasmada21@gmail.com](mailto:royasmada21@gmail.com)  
-<!-- - 💼 **LinkedIn:** [linkedin.com/in/dianata-royasmada-740812254](https://linkedin.com/in/dianata-royasmada-740812254)  
-- 🧠 **GitHub:** [github.com/Roys002](https://github.com/Roys002)   -->
+- 💼 **LinkedIn:** [linkedin.com/in/dianata-royasmada-740812254](https://linkedin.com/in/dianata-royasmada-740812254)  
+- 🧠 **GitHub:** [github.com/Roys002](https://github.com/Roys002)  
+
 
 ---
 

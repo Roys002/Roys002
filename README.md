@@ -10,7 +10,7 @@ Currently expanding my skills in <b>Laravel</b> and <b>Flutter</b> to deliver fu
 ---
 
 ### 🧠 About Me
-- 🏢 Currently working at **Cakrasoft Hotel System ** as a **Fullstack Software Engineer**  
+- 🏢 Currently working at **Cakrasoft Hotel System** as a **Fullstack Software Engineering**  
 - 💼 Experienced in **Property Management Systems (PMS)**, **Channel Manager Integrations**, **CRM Guest Portal**, and **Email Scheduler Services**  
 - ⚙️ Skilled in **Backend Architecture**, **System Integration**, and **Scalable Infrastructure Design**  
 - 🌱 Currently learning **Laravel & Flutter** to expand into mobile and modern web ecosystems  
@@ -34,6 +34,10 @@ Currently expanding my skills in <b>Laravel</b> and <b>Flutter</b> to deliver fu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white&style=flat-square)
 
 #### 📱 Exploring
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -49,7 +53,7 @@ Currently expanding my skills in <b>Laravel</b> and <b>Flutter</b> to deliver fu
 
 ### 💼 Professional Experience
 
-**Cakrasoft Hotel System (PT. Cakra Media Data)** – *Fullstack Software Engineer* (2022–Present)  
+**Cakrasoft Hotel System (PT. Cakra Media Data)** – *Fullstack Software Engineering* (2022–Present)  
 > Building scalable backend and frontend systems for the hospitality and property management industry.
 
 - Developed and maintained **Channel Manager & PMS integration** using Golang.  

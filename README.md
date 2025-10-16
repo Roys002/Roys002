@@ -148,8 +148,6 @@ Created a production-grade email scheduler with template builder, retry mechanis
 
 ### 📬 Contact & Connect
 - 📧 **Email:** [royasmada21@gmail.com](mailto:royasmada21@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/dianata-royasmada-740812254](https://linkedin.com/in/dianata-royasmada-740812254)  
-- 🧠 **GitHub:** [github.com/Roys002](https://github.com/Roys002)  
 
 
 ---
